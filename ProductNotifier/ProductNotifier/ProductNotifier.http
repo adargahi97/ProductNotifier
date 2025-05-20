@@ -1,0 +1,6 @@
+@ProductNotifier_HostAddress = http://localhost:5250
+
+GET {{ProductNotifier_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

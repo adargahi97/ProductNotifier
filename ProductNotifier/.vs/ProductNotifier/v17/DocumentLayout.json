@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\services\\euclidrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\services\\euclidrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\repositories\\euclidrecordsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\repositories\\euclidrecordsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\controllers\\productapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\controllers\\productapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\helpers\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\helpers\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|c:\\users\\abbas\\source\\repos\\productnotifier\\productnotifier\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8290F7C5-FC66-49B5-8361-28BA3F4A0C8A}|ProductNotifier\\ProductNotifier.csproj|solutionrelative:productnotifier\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductNotifier\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:38:16.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductNotifier\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\appsettings.json",
+              "RelativeToolTip": "ProductNotifier\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T05:49:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Program.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Program.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Program.cs",
+              "RelativeToolTip": "ProductNotifier\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:27:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Helpers\\Comparer.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Helpers\\Comparer.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Helpers\\Comparer.cs",
+              "RelativeToolTip": "ProductNotifier\\Helpers\\Comparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:18:47.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Models\\Record.cs",
+              "RelativeToolTip": "ProductNotifier\\Models\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:09:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EuclidRecordsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Repositories\\EuclidRecordsDAO.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Repositories\\EuclidRecordsDAO.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Repositories\\EuclidRecordsDAO.cs",
+              "RelativeToolTip": "ProductNotifier\\Repositories\\EuclidRecordsDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:52:24.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EuclidRecords.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Services\\EuclidRecords.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Services\\EuclidRecords.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Services\\EuclidRecords.cs",
+              "RelativeToolTip": "ProductNotifier\\Services\\EuclidRecords.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:49:21.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Models\\Product.cs",
+              "RelativeToolTip": "ProductNotifier\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:44:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductApi.cs",
+              "DocumentMoniker": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Controllers\\ProductApi.cs",
+              "RelativeDocumentMoniker": "ProductNotifier\\Controllers\\ProductApi.cs",
+              "ToolTip": "C:\\Users\\Abbas\\source\\repos\\ProductNotifier\\ProductNotifier\\Controllers\\ProductApi.cs",
+              "RelativeToolTip": "ProductNotifier\\Controllers\\ProductApi.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:43:03.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
